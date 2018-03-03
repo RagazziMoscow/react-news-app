@@ -1,0 +1,14 @@
+{
+  "name": "news-app",
+  "description": "",
+  "main": "server.js",
+  "authors": [
+    "zzaerodromio"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/RagazziMoscow/react-news-app",
+  "private": true,
+  "dependencies": {
+    "react": "15.1.0"
+  }
+}
